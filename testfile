@@ -1,0 +1,4 @@
+begin
+int a = 1;
+bool s = true;
+end
